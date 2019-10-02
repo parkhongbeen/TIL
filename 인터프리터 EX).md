@@ -6,15 +6,15 @@
 
 아래 코드는  "<script>" 부분이  "<body>"상단에 위치한 경우이다.
 
-![캡처1](C:\Users\User\Documents\dev\memo\TIL\img\캡처1.JPG)
+![캡처1](https://user-images.githubusercontent.com/53684676/66066711-03e10380-e585-11e9-9a3e-2e08a8ce7d4a.JPG)
 
 이러한 경우 onclick 이벤트가 발생해도 텍스트컬러는 그대로이며 오류가 뜬다.
 
-![캡처3](C:\Users\User\Documents\dev\memo\TIL\img\캡처3.JPG)
+![캡처3](https://user-images.githubusercontent.com/53684676/66066725-09d6e480-e585-11e9-8c7b-c1b704af1ab8.JPG)
 
 이러한 오류를 잡기위해서는 아래 그림과 같이 "<body>"하단에 위치하게 한다. 
 
-![캡처2](C:\Users\User\Documents\dev\memo\TIL\img\캡처2.JPG)
+![캡처2](https://user-images.githubusercontent.com/53684676/66066720-05aac700-e585-11e9-90bc-fc7ea1786dae.JPG)
 
 
 
@@ -22,5 +22,5 @@
 
 
 
-![캡처4](C:\Users\User\Documents\dev\memo\TIL\img\캡처4.JPG)
+![캡처4](https://user-images.githubusercontent.com/53684676/66066732-0c393e80-e585-11e9-92e1-74675f73a059.JPG)
 
