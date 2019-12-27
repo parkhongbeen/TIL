@@ -27,8 +27,8 @@
 그리고 아래와 같은 명령을 실행한다
 
 ```
+> git init
 > git remote add origin <저장소url>
-
 > git remote
 
 > git commit 
