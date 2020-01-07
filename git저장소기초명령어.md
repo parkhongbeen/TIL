@@ -29,14 +29,13 @@
 ```
 > git init
 > git remote add origin <저장소url>
-> git remote
+> git remote (연결되었는지 확인하는명령어)
+> git push -u origin master
+# 처음에 한번만 -u 설정을 하면 앞으로 git push만 입력해도 origin의 master브랜치로 push한다.
 
 > git commit 
 # (commit내용을 적기위해 vim으로 이동됨)
 # 편집모드(i클릭)로 들어가서 첫줄에 제목,둘째줄에는 내용을 적는다./제목은 상세할수록 좋다.
-
-> git push -u origin master
-# 처음에 한번만 -u 설정을 하면 앞으로 git push만 입력해도 origin의 master브랜치로 push한다.
 ```
 
 ---
