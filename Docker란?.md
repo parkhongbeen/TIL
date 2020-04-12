@@ -34,14 +34,14 @@ Docker는 수행하고자 하는 작업 혹은 프로그램에 필요한 패키�
 
 docker engine을 이용해 image에 입력된 설정과 작업들을 바탕으로 container가 실행되게 되는 것이죠,
 
-!(도커흐름)[https://user-images.githubusercontent.com/53684676/79072710-6c235580-7d1d-11ea-8b5e-136b15b7a00c.png]
+![도커흐름](https://user-images.githubusercontent.com/53684676/79072710-6c235580-7d1d-11ea-8b5e-136b15b7a00c.png)
 
-!()[https://user-images.githubusercontent.com/53684676/79072721-7d6c6200-7d1d-11ea-9d12-f0617f1a0897.png]
+![도커파일이미지컨테이너](https://user-images.githubusercontent.com/53684676/79072721-7d6c6200-7d1d-11ea-9d12-f0617f1a0897.png)
 
 ### 가상환경
 
-!()[https://user-images.githubusercontent.com/53684676/79072741-9543e600-7d1d-11ea-8219-67de6ec4855f.png]
+![가상환경](https://user-images.githubusercontent.com/53684676/79072743-99700380-7d1d-11ea-8212-d4767f5b349f.png)
 
 ### Docker
 
-!()[https://user-images.githubusercontent.com/53684676/79072743-99700380-7d1d-11ea-8212-d4767f5b349f.png]
+![도커](https://user-images.githubusercontent.com/53684676/79072741-9543e600-7d1d-11ea-8219-67de6ec4855f.png)
