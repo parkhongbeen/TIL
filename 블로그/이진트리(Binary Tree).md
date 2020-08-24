@@ -33,5 +33,5 @@
 
 - 층별순회![image](https://user-images.githubusercontent.com/53684676/86146310-0764e380-bb33-11ea-9229-d39499148fa2.png)
 
-참조: [블로그](https://lee-seul.github.io/algorithm/python/2017/04/09/data-structure-04-tree.html), [블로그](https://m.blog.naver.com/rlakk11/60159303809)
+  참조: [블로그](https://lee-seul.github.io/algorithm/python/2017/04/09/data-structure-04-tree.html), [블로그](https://m.blog.naver.com/rlakk11/60159303809)
 
